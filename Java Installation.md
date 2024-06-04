@@ -9,8 +9,7 @@ Combination of Java Runtime Environment (JRE) and Java Virtual Machine (JVM))
 
 ## If you want to Install Java 17 Version in Amazon Linux
 ```xml
-Ex: If you want to install java 17v then 
-    sudo dnf install java-17-amazon-corretto -y
+sudo dnf install java-17-amazon-corretto -y
 ```
 
 ## Checking the java version
